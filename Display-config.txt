@@ -11,7 +11,7 @@ nvidia reflex : disabled
 max fps : 0
 max fps in menu : 200
 
-multisampling : 4x MSAA
+multisampling : 2x MSAA
 global shadow : low
 dynamic shadows : sun only
 model/texture detail : low
