@@ -1,6 +1,6 @@
 mode : fullscreen windowed
-aspect ratio : widescreen 16:10
-resolution : 1680x1200
+aspect ratio : widescreen 4:3
+resolution : 1280x768
 brightness : 67
 
 boost player contrast : disabled
@@ -8,14 +8,14 @@ boost player contrast : disabled
 v-sync : disabled
 g-sync : disabled
 nvidia reflex : disabled
-max fps : 0
-max fps in menu : 200
+max fps : 250
+max fps in menu : 100
 
 multisampling : 2x MSAA
 global shadow : low
 dynamic shadows : sun only
 model/texture detail : low
-texture filtering mode : bilinear
+texture filtering mode : Anti 2x
 shader detail : low
 particle detail : low
 ambient occlusion : disabled
